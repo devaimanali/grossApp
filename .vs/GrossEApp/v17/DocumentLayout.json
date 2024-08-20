@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\Desktop\\GrossEApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{352FA1A5-5BE2-4C0D-B31D-B40CD9421A7E}|GrossApp.WebAPI\\GrossApp.WebAPI.csproj|c:\\users\\dev\\desktop\\grosseapp\\grossapp.webapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{352FA1A5-5BE2-4C0D-B31D-B40CD9421A7E}|GrossApp.WebAPI\\GrossApp.WebAPI.csproj|solutionrelative:grossapp.webapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551E2AA8-B661-495A-8809-2C82DD36C86E}|GrossApp.Infrastructure\\GrossApp.Infrastructure.csproj|c:\\users\\dev\\desktop\\grosseapp\\grossapp.infrastructure\\grossapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{551E2AA8-B661-495A-8809-2C82DD36C86E}|GrossApp.Infrastructure\\GrossApp.Infrastructure.csproj|solutionrelative:grossapp.infrastructure\\grossapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3710503-1D3A-4991-91D6-8C952119854D}|GrossApp.Application\\GrossApp.Application.csproj|c:\\users\\dev\\desktop\\grosseapp\\grossapp.application\\grossapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3710503-1D3A-4991-91D6-8C952119854D}|GrossApp.Application\\GrossApp.Application.csproj|solutionrelative:grossapp.application\\grossapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE634A-59A6-428C-9984-D5B6F3B6EE12}|GrossApp.Core\\GrossApp.Core.csproj|c:\\users\\dev\\desktop\\grosseapp\\grossapp.core\\grossapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9DE634A-59A6-428C-9984-D5B6F3B6EE12}|GrossApp.Core\\GrossApp.Core.csproj|solutionrelative:grossapp.core\\grossapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.mD",
+              "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.WebAPI\\ReadMe.mD",
+              "RelativeDocumentMoniker": "GrossApp.WebAPI\\ReadMe.mD",
+              "ToolTip": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.WebAPI\\ReadMe.mD",
+              "RelativeToolTip": "GrossApp.WebAPI\\ReadMe.mD",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-20T12:57:22.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrossApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.Infrastructure\\GrossApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "GrossApp.Infrastructure\\GrossApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.Infrastructure\\GrossApp.Infrastructure.csproj",
+              "RelativeToolTip": "GrossApp.Infrastructure\\GrossApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T12:51:31.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrossApp.Application",
+              "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.Application\\GrossApp.Application.csproj",
+              "RelativeDocumentMoniker": "GrossApp.Application\\GrossApp.Application.csproj",
+              "ToolTip": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.Application\\GrossApp.Application.csproj",
+              "RelativeToolTip": "GrossApp.Application\\GrossApp.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T12:50:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrossApp.Core",
+              "DocumentMoniker": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.Core\\GrossApp.Core.csproj",
+              "RelativeDocumentMoniker": "GrossApp.Core\\GrossApp.Core.csproj",
+              "ToolTip": "C:\\Users\\Dev\\Desktop\\GrossEApp\\GrossApp.Core\\GrossApp.Core.csproj",
+              "RelativeToolTip": "GrossApp.Core\\GrossApp.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T12:49:55.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
