@@ -1,0 +1,13 @@
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\bin\Debug\net8.0\GrossApp.Infrastructure.deps.json
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\bin\Debug\net8.0\GrossApp.Infrastructure.dll
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\bin\Debug\net8.0\GrossApp.Infrastructure.pdb
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.sourcelink.json
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.dll
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\refint\GrossApp.Infrastructure.dll
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\GrossApp.Infrastructure.pdb
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Infrastructure\obj\Debug\net8.0\ref\GrossApp.Infrastructure.dll

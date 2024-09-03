@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrossApp.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c228126391a97134bb8312d57b747ff752337c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc5115440adb98d7c7fa3ad4f9379b575be3074")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrossApp.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrossApp.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

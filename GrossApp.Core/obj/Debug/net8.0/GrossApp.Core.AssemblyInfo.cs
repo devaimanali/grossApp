@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrossApp.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc5115440adb98d7c7fa3ad4f9379b575be3074")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrossApp.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrossApp.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
