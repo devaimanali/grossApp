@@ -1,0 +1,14 @@
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\bin\Debug\net8.0\GrossApp.Core.deps.json
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\bin\Debug\net8.0\GrossApp.Core.dll
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\bin\Debug\net8.0\GrossApp.Core.pdb
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.AssemblyInfo.cs
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.sourcelink.json
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.dll
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\refint\GrossApp.Core.dll
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.pdb
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\ref\GrossApp.Core.dll
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\bin\Debug\net8.0\GrossApp.Core.runtimeconfig.json
+C:\Users\Dev\Desktop\GrossEApp\GrossApp.Core\obj\Debug\net8.0\GrossApp.Core.genruntimeconfig.cache

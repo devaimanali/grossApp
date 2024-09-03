@@ -214,3 +214,7 @@ As you develop your application, continue to:
 
 ### Summary
 This setup establishes a solid foundation for Clean Architecture in a .NET application, promoting separation of concerns, testability, and maintainability. By following this structure, you'll be able to build scalable and robust applications.
+
+
+### identity implementation
+dotnet tool install --global dotnet-ef
